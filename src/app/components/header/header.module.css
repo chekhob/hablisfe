@@ -1,0 +1,17 @@
+.headerCont{
+    background-color:  rgba(255, 255, 255, 0.5);
+}
+.header{
+        max-width: 1200px; /* Adjust as needed */
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+}
+.link{
+    display: flex;
+    gap: 1rem;
+}
